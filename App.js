@@ -16,7 +16,7 @@
    ActivityIndicator
  } from 'react-native';
  
- export default class App extends Component<{}> {
+ export default class App extends Component{
    state = {
      instruksi: false,
      loading: false
